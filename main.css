@@ -1,0 +1,62 @@
+body{
+  background-color: #92C592;
+  margin:0;
+}
+.square {
+  background-color:#92C592;
+  border: 1vh white solid;
+  margin: 2vh;
+  height: 120vh;
+  width: 196vh;
+  position: relative;
+}
+.square2 {
+  background-color:#92C592;
+  border-top: 1vh white solid;
+  border-right: 1vh white solid;
+  border-bottom: 1vh white solid;
+  height: 46vh;
+  width: 20vh;
+  position: absolute;
+  top: 36vh;
+  left: 0;
+}
+.rectangle {
+  background-color:#92C592;
+  border-top: 1vh white solid;
+  border-left: 1vh white solid;
+  border-bottom: 1vh white solid;
+  height: 46vh;
+  width: 20vh;
+  position: absolute;
+  top: 36vh;
+  right: 0;
+}
+.circle {
+  background:#92C592;
+  border:1vh white solid;
+  border-radius: 50%;
+  height: 50vh;
+  width: 50vh;
+  position: absolute;
+  top: 36vh;
+  left: 38%;
+}
+.icon-volleyball2{
+  color:#F3EEEE;
+}
+.ball1{
+position: absolute;
+top:31%;
+left: 10%
+}
+.ball2{
+position: absolute;
+top:20%;
+left: 53%
+}
+.ball3{
+position: absolute;
+top:64%;
+right:12%
+}
